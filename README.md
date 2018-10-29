@@ -1,3 +1,2 @@
 # ESP32-example-test
-test esp32 example
-Use ESP32 DevKitC V4
+Test esp32 example,use ESP32 DevKitC V4.
